@@ -1,0 +1,11 @@
+Metric,Value
+Row Count,9020
+Column Count,9
+Duplicate Rows,885
+Missing Quiz Scores,15
+Missing Completion Rates,10
+Invalid Quiz Scores (>100),5
+Invalid Completion Rates (>100),5
+Invalid Quiz Scores (<0),0
+Invalid Completion Rates (<0),0
+Negative Time Spent,3
